@@ -3,5 +3,6 @@
 ## 資料前處理 程式碼 : HLA.py 
 ## Inception-ResNet 人臉辨識 : resnet_recognizer.py
 ## CNN 人臉辨識 : cnn_recognizer.py
-## Test 資料集 : .\data\
+## Test 資料集 : 因資料集為非公開資料集，所以無法上傳
+
 
